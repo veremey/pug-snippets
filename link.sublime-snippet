@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+link(rel='stylesheet', href='${:static/css/app.css}')
+]]></content>
+    <tabTrigger>link</tabTrigger>
+    <scope>source.pug, text.pug</scope>
+    <description>Link Tag</description>
+</snippet>

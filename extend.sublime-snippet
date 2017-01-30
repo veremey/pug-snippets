@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+extend ${1:layout};
+]]></content>
+	<tabTrigger>ext</tabTrigger>
+	<scope>source.pug, text.pug</scope>
+	<description>extend</description>
+</snippet>

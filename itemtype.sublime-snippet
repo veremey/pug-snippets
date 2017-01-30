@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+itemtype="http://schema.org/$1"
+]]></content>
+	<tabTrigger>itemt</tabTrigger>
+	<scope>entity.name.tag.jade, entity.name.tag.pug</scope>
+	<description>itemtype</description>
+</snippet>

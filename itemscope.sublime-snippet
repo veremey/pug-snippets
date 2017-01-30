@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+itemscope
+]]></content>
+	<tabTrigger>items</tabTrigger>
+	<scope>entity.name.tag.jade, entity.name.tag.pug</scope>
+	<description>itemscope</description>
+</snippet>
