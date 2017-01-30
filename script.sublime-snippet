@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-script(src='${1:static/js/app.js}'${2:, type='application/javascript'})
+script(src='${1:static/js/app.js}')
 ]]></content>
     <tabTrigger>script</tabTrigger>
     <scope>source.pug, text.pug</scope>
